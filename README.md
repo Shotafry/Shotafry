@@ -14,8 +14,6 @@
 
 Hola, soy Bray. Mi trayectoria comenzó en el soporte informático y el mantenimiento de sistemas, una base de datos operativa que me ha dado una ventaja real al dar el salto a la ciberseguridad, permitiéndome consolidar un perfil junior avanzado con una comprensión profunda de la infraestructura. Actualmente, a través del programa Cantabria Tech Talent, ejerzo como Técnico de Ciberseguridad en Fonestar, donde gestiono políticas de protección (antimalware/DLP), apoyo en auditorías de cumplimiento y participo en la respuesta a incidentes en entornos reales junto a los equipos de IT.
 
-Mi perfil se aleja del analista tradicional para enfocarse en ser transversal. Me considero un arquitecto técnico que se apoya constantemente en la IA para ganar agilidad en todas mis facetas: desde generar código estructurado y levantar infraestructuras Cloud bajo metodologías DevSecOps, hasta sintetizar informes de vulnerabilidades o procesar ciberinteligencia. Esta combinación me permite automatizar las tareas más mecánicas tanto en mi trabajo diario como en mis proyectos comerciales y de laboratorio, dedicando mi esfuerzo real a lo que requiere un análisis más crítico, como el pentesting y la defensa activa.
-
 Además de la parte técnica, dedico tiempo al voluntariado como Cibercooperante en el INCIBE. Aunque mi agenda actual es apretada, busco activamente huecos para organizar mis primeras charlas de concienciación en Cantabria, contactando con escuelas y colectivos para ayudar a familias y jóvenes a prevenir riesgos digitales. Creo firmemente que la educación es la mejor barrera de seguridad, por lo que estoy a total disposición de cualquier institución que necesite este tipo de apoyo divulgativo; tienes mi contacto al final para cualquier colaboración.
 
 ---
