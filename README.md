@@ -26,9 +26,9 @@ Más allá del código en los repositorios, aquí puedes ver los proyectos y arq
 
 | Proyecto | Descripción y Enlace |
 | :--- | :--- |
-| **<img src="https://github.com/Shotafry/1mpulso/blob/main/public/favicon.svg" width="75"/>** | **1mpulso Web Agency** <br> Mi agencia de desarrollo "Web as a Service". Construida sobre islas de Astro y Tailwind para una excelente velocidad de carga. <br> 🔗 [Visitar 1mpulso.com](https://1mpulso.com) |
-| **<img src="https://github.com/CybESphere/frontend/blob/main/public/Logo-Vertical.png" width="75"/>** | **CybESphere (Fase Beta)** <br> Plataforma para centralizar eventos de ciberseguridad en España. Backend en Go, frontend en React, desplegada con metodologías DevSecOps. <br> 🔗 [Visitar cybesphere.1mpulso.com](https://cybesphere.1mpulso.com) |
-| **<img src="https://github.com/Shotafry/Izhar-Multiservicios/blob/main/public/logo.jpeg" width="75"/>** | **Multiservicios Izhar** <br> Proyecto entregado y en producción. Desarrollo web integral enfocado en conversión, velocidad de carga estática y SEO técnico. <br> 🔗 [Visitar multiserviciosizhar.com](https://multiserviciosizhar.com) |
+| **<img src="https://github.com/Shotafry/Assets/blob/main/Logo%20Impulso%20-%20Linkedin.jpeg" width="75"/>** | **1mpulso Web Agency** <br> Mi agencia de desarrollo "Web as a Service". Construida sobre islas de Astro y Tailwind para una excelente velocidad de carga. <br> 🔗 [Visitar 1mpulso.com](https://1mpulso.com) |
+| **<img src="https://github.com/Shotafry/Assets/blob/main/Logo%20Vertical.png" width="75"/>** | **CybESphere (Fase Beta)** <br> Plataforma para centralizar eventos de ciberseguridad en España. Backend en Go, frontend en React, desplegada con metodologías DevSecOps. <br> 🔗 [Visitar cybesphere.1mpulso.com](https://cybesphere.1mpulso.com) |
+| **<img src="https://github.com/Shotafry/Assets/blob/main/logo.jpeg" width="75"/>** | **Multiservicios Izhar** <br> Proyecto entregado y en producción. Desarrollo web integral enfocado en conversión, velocidad de carga estática y SEO técnico. <br> 🔗 [Visitar multiserviciosizhar.com](https://multiserviciosizhar.com) |
 
 ---
 
