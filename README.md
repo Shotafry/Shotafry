@@ -18,6 +18,17 @@ Además de la parte técnica, dedico tiempo al voluntariado como Cibercooperante
 
 ---
 
+### >_ Productos Propios de Seguridad
+
+Dos piezas que diseño y desarrollo de cero: una plataforma integral de ciberseguridad y una herramienta open source extraída de ella.
+
+| Proyecto | Descripción y Enlace |
+| :--- | :--- |
+| **<img src="https://github.com/Shotafry/Assets/blob/main/argos-logo.png" width="75"/>** | **Argos** <br> Plataforma de ciberseguridad **self-hosted** para PYME: unifica CMDB, gestión de vulnerabilidades, inteligencia de amenazas, cumplimiento (ENS), backups, flota y formación en un solo proceso. Next.js 16 · React 19 · TypeScript · SQLite/Prisma 7. Arquitectura **modular y comercial**. <br> 🔒 Privado (producto comercial) |
+| **<img src="https://github.com/Shotafry/Assets/blob/main/talos-logo.png" width="75"/>** | **Talos** <br> Auditoría de **bastionado (hardening)** de sistemas en un **único binario sin dependencias** (Linux/Windows). Solo lectura, 141 comprobaciones como datos, nota 0-100 e **informe HTML interactivo** (tema claro/oscuro, filtros, imprimible a PDF). Extraído de Argos como herramienta independiente. <br> 🔗 [Ver en GitHub](https://github.com/Shotafry/Talos) · [Releases](https://github.com/Shotafry/Talos/releases/latest) |
+
+---
+
 ### >_ Portafolio en Vivo y Webs en Producción
 
 Más allá del código en los repositorios, aquí puedes ver los proyectos y arquitecturas que he llevado hasta la fase de producción, abarcando desde servicios web para clientes hasta plataformas de ciberseguridad comunitarias.
