@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/eJPTv2-Certified-blue?style=for-the-badge&logo=checkpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASIR-Graduado-brightgreen?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASIR-Graduated-brightgreen?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Master-Cybersecurity-8E44AD?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/UNIR-Cantabria_Tech_Talent-004b87?style=for-the-badge&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/INCIBE-Cibercooperante-FF6600?style=for-the-badge&logo=security&logoColor=white" />
